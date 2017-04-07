@@ -1,0 +1,3 @@
+[submodule "serialClient"]
+	path = serialClient
+	url = git@github.com:rightson/serial-client.git
